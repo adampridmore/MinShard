@@ -1,0 +1,1 @@
+"C:\Program Files\Mongo\bin\mongod.exe" --configsvr --dbpath .\data\config-1 --port 27019 %1

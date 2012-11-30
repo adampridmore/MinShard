@@ -1,0 +1,1 @@
+"C:\Program Files\Mongo\bin\mongos.exe" --configdb mnab-dev15l:27019,mnab-dev15l:27020,mnab-dev15l:27021 --port 40000
