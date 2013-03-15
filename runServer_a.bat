@@ -1,1 +1,1 @@
-"C:\Program Files\Mongo\bin\mongod.exe" --shardsvr --replSet shard-a --dbpath .\data\rs-a --port 30000 %1
+"C:\Program Files\Mongo\bin\mongod.exe" --shardsvr --replSet shard-a --oplogSize 20 --dbpath .\data\rs-a --port 30000 %1
